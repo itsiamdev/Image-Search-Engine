@@ -9,7 +9,7 @@ A simple web-based image search engine that allows users to search for images us
 - Clean and modern UI
 
 ## Live Demo
-Check out the live demo: [https://iam269.github.io/Image-Search-Engine/](https://iam269.github.io/Image-Search-Engine/)
+Check out the live demo: [https://itsiamdev.github.io/Image-Search-Engine/](https://itsiamdev.github.io/Image-Search-Engine/)
 
 ## Technologies Used
 - HTML
